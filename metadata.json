@@ -1,0 +1,7 @@
+{
+  "name": "AutoInspect Hub - Used Car Platform",
+  "description": "A professional platform for used car inspections with role-based access control, registration for inspectors using National ID, and administrative management of data and user accounts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
